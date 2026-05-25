@@ -116,6 +116,58 @@ The platform combines AI-powered assistance, facial verification, OCR-based auth
 
 ---
 
+# 🖼️ Application Screenshots
+
+## 👤 User Dashboard
+![User Dashboard](Screenshots/User%20Dashboard.jpg)
+
+---
+
+## 🧑‍💼 Agent Dashboard
+![Agent Dashboard](Screenshots/Agent%20Dashboard.jpg)
+
+---
+
+## 📂 Secure Document Vault
+![Document Vault](Screenshots/Document%20Vault.jpg)
+
+---
+
+## 📍 Nearby Agent Finder
+![Nearby Agents](Screenshots/Fetching%20Nearby%20Agents.jpg)
+
+---
+
+## 💬 Live Chat System
+![Live Chat](Screenshots/Live%20Chat.jpg)
+
+---
+
+## 🎥 Video Calling Feature
+![Video Call](Screenshots/Video%20Call.jpg)
+
+---
+
+## 🔐 Email Verification
+![Email Verification](Screenshots/Email%20Verification.jpg)
+
+---
+
+## 🛡️ IPV Verification
+![IPV](Screenshots/IPV.jpg)
+
+---
+
+## 💳 Razorpay Payment Integration
+![Razorpay](Screenshots/Razorpay.jpg)
+
+---
+
+## 📋 Order Management Layout
+![Order Management](Screenshots/Order%20management%20layout.jpg)
+
+---
+
 # 📊 Performance & Validation
 
 | Feature | Result |
